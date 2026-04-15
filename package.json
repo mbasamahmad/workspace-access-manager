@@ -1,0 +1,22 @@
+{
+  "name": "workspace-access-manager",
+  "version": "1.0.0",
+  "description": "A frontend application demonstrating Context API design and provider patterns for role-based UIs.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^3.0.0",
+    "@testing-library/react": "^13.0.0",
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0",
+    "prettier": "^2.0.0"
+  }
+}
